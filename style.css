@@ -1,0 +1,41 @@
+body{
+  background-image: url(/images/fondHalloween.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+
+#pumpkin {
+  position: absolute;
+}
+
+#ghost {
+  position: absolute;
+}
+
+#candy {
+  position: absolute;
+}
+
+#black-cat {
+  position: absolute;
+}
+
+#lollipop {
+  position: absolute;
+}
+
+#werewolf {
+  position: absolute;
+}
+
+#witch {
+  position: absolute;
+}
+
+#zombi {
+  position: absolute;
+}
